@@ -1,5 +1,7 @@
 # LaSalle Software's Response Header Package
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/lasallesoftware/ls-responseheaders-pkg.svg?style=flat-square)](https://packagist.org/packages/lasallesoftware/ls-responseheaders-pkg)
+
 Response headers package for my LaSalle Software.
 
 Package to disable FLOC. 
