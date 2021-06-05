@@ -1,0 +1,51 @@
+{
+  "name": "lasallesoftware/ls-responseheaders-pkg",
+  "description": "LaSalle Software Response Header Package.",
+  "keywords": [
+    "lasalle software",
+    "south lasalle",
+    "bob bloom",
+    "package",
+    "laravel"
+  ],
+  "homepage": "https://lasallesoftware.ca",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bob Bloom",
+      "email": "bob.bloom@lasallesoftware.ca",
+      "homepage": "https://LasalleSoftware.ca",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Lasallesoftware\\Responseheaders\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Lasallesoftware\\Responseheaders\\Test\\": "tests/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Lasallesoftware\\Responseheaders\\ResponseheadersServiceProvider"
+      ]
+    }
+  },
+  "scripts": {
+    "test": "phpunit"
+  },
+  "config": {
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "optimize-autoloader": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
