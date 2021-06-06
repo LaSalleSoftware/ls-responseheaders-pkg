@@ -1,6 +1,10 @@
 # LaSalle Software's Response Header Package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/lasallesoftware/ls-responseheaders-pkg.svg?style=flat-square)](https://packagist.org/packages/lasallesoftware/ls-responseheaders-pkg)
+<p>
+<a href="https://packagist.org/packages/lasallesoftware/ls-responseheaders-pkg"><img src="https://poser.pugx.org/lasallesoftware/ls-responseheaders-pkg/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/lasallesoftware/ls-responseheaders-pkg"><img src="https://poser.pugx.org/lasallesoftware/ls-responseheaders-pkg/license.svg" alt="License"></a>
+<a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-v8-brightgreen.svg?style=flat-square" alt="Laravel v8.x"></a> 
+</p>
 
 Response headers package for my LaSalle Software.
 
