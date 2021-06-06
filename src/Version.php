@@ -17,7 +17,7 @@
  *
  * @see        https://lasallesoftware.ca
  * @see        https://packagist.org/packages/lasallesoftware/ls-responseheaders-pkg
- * @see        https://github.com/LaSalleSoftware/ls-libraryfrontend-pkg
+ * @see        https://github.com/LaSalleSoftware/ls-responseheaders-pkg
  */
 
 namespace Lasallesoftware\Responseheaders;
