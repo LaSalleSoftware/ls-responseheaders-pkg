@@ -10,7 +10,9 @@ Response headers package for my LaSalle Software.
 
 Package to disable FLOC. 
 
-Based on [https://github.com/spatie/laravel-disable-floc](https://github.com/spatie/laravel-disable-floc)
+Based on [https://github.com/spatie/laravel-disable-floc](https://github.com/spatie/laravel-disable-floc) -- which is archived.
+
+ADMIN needs this package.
 
 ## Security
 
