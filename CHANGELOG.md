@@ -1,5 +1,8 @@
 # CHANGE LOG
 
+## VERSION 2.0 (June 22, 2025)
+* [v2.0 issues](https://github.com/LaSalleSoftware/ls-responseheader-pkg/milestone/5?closed=1)
+
 ## VERSION 1.2.0 (April 15, 2023)
 * [v1.2.0 issues](https://github.com/LaSalleSoftware/ls-responseheader-pkg/milestone/4?closed=1)
 
